@@ -3,3 +3,5 @@ title: Biostatistik 1
 description: Standardisierung, Validität & Reliabilität
 github:
   is_project_page: false
+plugins:
+  - jemoji
