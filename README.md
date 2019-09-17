@@ -9,7 +9,7 @@ some introduction
 - Slides
 
 #### Validity-and-reliability
-- [Notes](standardization)
+- [Notes](validity-and-reliability)
 - Slides
 
 ### Additional Course Materials
