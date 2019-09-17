@@ -5,12 +5,19 @@ some introduction
 ### Course Material
 
 #### Standardization
-- [Notes](standardization)
-- Slides
 
-#### Validity-and-reliability
-- [Notes](validity-and-reliability)
-- Slides
+:green_book: [Notes](standardization)
+
+:loudspeaker: Slides
+
+:pencil: Assignments
+
+#### Validity and Reliability
+:green_book: [Notes](validity-and-reliability)
+
+:loudspeaker: Slides
+
+:pencil: Assignments
 
 ### Additional Course Materials
 
