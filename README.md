@@ -16,7 +16,7 @@ some introduction
 
 - Link to books, etc..
 
-### Lectures
+### Lecturers
 
 - Sebastian Schönherr
 - Lukas Forer
