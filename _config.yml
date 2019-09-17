@@ -1,2 +1,11 @@
 theme: jekyll-theme-cayman
-title: Biostatistik 1 - Standardisierung, Validität & Reliabilität
+title: Biostatistik 1
+description: Standardisierung, Validität & Reliabilität
+
+# List of links in the navigation bar
+navbar-links:
+  Standardisierung: "test"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
